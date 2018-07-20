@@ -1,3 +1,7 @@
+###DISCLAIMER: this code is really messy because I chose not to incorporate reference into this
+
+
+
 ##EXERCISE 0
 #creating arrays
 colors = ["blue", "green", "grey", "black"]
@@ -325,3 +329,5 @@ alphashopping.each do |a|
 end
 
 output(nosalmon)
+
+#hey tyler, if you're reading this...
